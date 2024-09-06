@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/a7b43617-079f-4f0d-ae78-4edaad1f9251
 
 7.复制顶部链接(即蓝色框选的链接)
 
-8.打开Clash，选中配置
+8.打开Clash，选中 **配置**
 
 即红色框里的选项：
 
@@ -53,11 +53,13 @@ https://github.com/user-attachments/assets/a7b43617-079f-4f0d-ae78-4edaad1f9251
 
 9.将复制的链接粘贴到上方输入框
 
-10.点击下载
+10.点击 **下载**,下载后会出现 **list.yml**
 
-11.点击list.yml
+11.点击 **list.yml**
 
 12.点击代理，选择自动选择或延迟最低
+
+13.点击 **配置** ,右键 **list.yml** ,点击 **设置**，更改 **更新间隔** 为两小时
 
 ## 说明：
 
