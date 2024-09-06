@@ -12,6 +12,10 @@ https://github.com/user-attachments/assets/a7b43617-079f-4f0d-ae78-4edaad1f9251
 
 或者下载项目中的1.mp4,为原视频，720p分辨率
 
+## 视频中的链接
+免费每月50G VPN，无需梯子可访问：https://ikuuu.pw
+节点源：https://github.com/chengaopan/AutoMergePublicNodes
+
 ## 操作方案
 
 1.打开[第一个网站](https://ikuuu.pw/)
