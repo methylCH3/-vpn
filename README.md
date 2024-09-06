@@ -4,7 +4,13 @@
 [亲测！2024最新免费VPN方案，一次解决全部痛点！无限流量+解除封禁+全局代理+自带分流！
 ](https://www.youtube.com/watch?v=MmZH5xkZoAU&t=265s)
 
-<video src="1.mp4"></video>
+### 如若无法访问Youtube:
+
+480p分辨率掐头去尾后的视频:
+
+https://github.com/user-attachments/assets/a7b43617-079f-4f0d-ae78-4edaad1f9251
+
+或者下载项目中的1.mp4,为原视频，720p分辨率
 
 ## 操作方案
 
